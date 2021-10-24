@@ -1,0 +1,47 @@
+Enter the four numbers of S box: 0 1 3 2
+
+ 2 bit Binary of 0 is 00
+ 2 bit Binary of 1 is 01
+ 2 bit Binary of 3 is 11
+ 2 bit Binary of 2 is 10
+
+ Now we take first bit from all four 2-bit binary:---
+
+
+First bit of 0 is 0
+First bit of 1 is 0
+First bit of 3 is 1
+First bit of 2 is 1
+
+ Now we take first bit from all four 2-bit binary:---
+
+
+
+ Now Suppose X3= 	0	0	1	1
+
+ Now we take second bit from all four 2-bit binary:---
+
+
+Second bit of 0 is 0
+Second bit of 1 is 1
+Second bit of 3 is 1
+Second bit of 2 is 0
+
+ Now we take 2nd bit from all four 2-bit binary:---
+
+
+
+ Now Suppose X4= 	0	1	1	0
+
+Now we take the positions of the S-Box as inputs,that is ,POSITION 0,1,2,3:-----
+Here too we get 2 more binary patterns of 4-bit long..that is extracting first and second bits..
+
+ Now Suppose X1= 	0	0	1	1
+
+ Now Suppose X2= 	0	1	0	1
+
+Linear approx table
+	4	2	2	2
+	2	4	2	2
+	2	2	2	4
+	2	2	4	2
