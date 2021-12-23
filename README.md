@@ -64,7 +64,7 @@ Probability bias can be defined as-
 
 No. of actual occurrence/ No. of total occurrence=Probability
 
-If the probability reaches from \(\frac{1}{2}\) towards \(1\), the
+If the probability reaches from ![equ](https://latex.codecogs.com/gif.latex?%5Cfrac%7B1%7D%7B2%7D) towards \(1\), the
 chances of presence of that linear equation increases.
 
 If it reaches towards \(0\), the chances of absence of that linear
